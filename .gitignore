@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Folder cache Python
+__pycache__/
+
+# File spesifik sistem operasi
+.DS_Store
+
+# File spesifik editor (opsional, tapi praktik yang baik)
+.vscode/
+.idea/
